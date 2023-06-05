@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const host = 'http://localhost:8080'
+const host = 'http://127.0.0.1:8080'
 
 export const getDataAPI = async (url, token) => {
     const res = await axios.get(`${host}/api/${url}`, {

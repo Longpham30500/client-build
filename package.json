@@ -1,7 +1,7 @@
 {
   "homepage": "https://Longpham30500.github.io/client-build",
   "name": "client",
-  "proxy": "http://localhost:8080",
+  "proxy": "http://127.0.0.1:8080",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
