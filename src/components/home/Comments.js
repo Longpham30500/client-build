@@ -1,4 +1,3 @@
-import { faDiagramNext } from '@fortawesome/free-solid-svg-icons'
 import React, { useState, useEffect } from 'react'
 import CommentDisplay from './comments/CommentDisplay'
 
